@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>Ejercicio de prueba de github</title>
+        <meta charset="utf-8">
     </head>
     <body>
         <h1>Yo soy Joshué Freire en archivo principal</h1>
